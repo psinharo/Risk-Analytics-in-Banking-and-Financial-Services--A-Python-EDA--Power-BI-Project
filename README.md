@@ -1,7 +1,7 @@
-# Risk-Analytics-in-Banking-and-Financial-Services--A-Python-EDA--Power-BI-Project
+# Risk Analytics in Banking and Financial Services- A Python EDA and Power-BI-Project
 
  # Re-import necessary libraries since the execution state was reset
- # END GOAL: RISK ANALYSIS and SHOW the IMP KPIs
+ # END GOAL: RISK ANALYSIS and SHOW the IMP KPIS
  import pandas as pd
  import matplotlib.pyplot as plt
  import seaborn as sns
